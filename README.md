@@ -1,6 +1,6 @@
-# console_floppy_bird
-Console application for playing floppy bird
+# console_flappy_bird
+Console application for playing flappy bird
 
-Start bird running ``python3 {path_to_file}/floppy_bird.py``
+Start bird running ``python3 {path_to_file}/flappy_bird.py``
 
 Bird represented by letter B moves up when Space key is hit.
